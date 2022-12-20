@@ -20,11 +20,11 @@ This tutorial uses a dataset generated at the University of Wisconsin-Madison [P
 
 To download the files please go to: 
 
-<https://github.com/mcaraza-harter/MCH_ToolsForPolyploidsExample.git>
+<https://github.com/mcaraza-harter/MCH_QTLmapping>
 
 Tutorial link:
 
-<>
+<https://mcaraza-harter.github.io/MCH_QTLmapping/tutorial/QTLmapping_Example.html>
 
 # Genotyping
 
