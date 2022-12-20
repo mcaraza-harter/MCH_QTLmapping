@@ -1,4 +1,4 @@
-# MCH_ToolsForPolyploidsExample
+# MCH_QTLmapping
 Mapping Example for Tools for Polyploids computational support session
 
 Data files and tutorial inluded
